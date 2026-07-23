@@ -29,7 +29,7 @@ footprints, and clear limits.
 
 | Project | What it does |
 | --- | --- |
-| [**NASA Observatory**](https://ryastra.github.io/nasa-observatory/) | One live view across space weather, planetary defense, NASA technology, and space-biology updates. |
+| [**NASA Observatory**](https://ryastra.github.io/nasa-observatory/) | One live view across space weather, planetary defense, exoplanet discoveries, NASA technology, and space-biology updates. |
 | [**SatNOGS Review Workbench**](https://github.com/RYASTRA/satnogs-dashboard) | A self-hosted, read-only observation-review queue combining signal triage, Doppler identification, and decoder evidence. |
 | [**NASA MCP**](https://github.com/RYASTRA/nasa-mcp) | All 16 of NASA's public APIs as MCP tools through one FastMCP server and Docker setup. |
 
@@ -40,6 +40,7 @@ footprints, and clear limits.
 | [`nasa-observatory`](https://github.com/RYASTRA/nasa-observatory) | Live overview of the NASA data fleet. |
 | [`nasa-space-weather`](https://github.com/RYASTRA/nasa-space-weather) | Plain-English watch for solar flares, CMEs, and geomagnetic storms. |
 | [`nasa-defense`](https://github.com/RYASTRA/nasa-defense) | Impact risks, close approaches, fireballs, and the Apophis 2029 countdown. |
+| [`nasa-new-worlds`](https://github.com/RYASTRA/nasa-new-worlds) | Weekly watch for new exoplanet confirmations, retractions, and standout worlds. |
 | [`nasa-tech-explorer`](https://github.com/RYASTRA/nasa-tech-explorer) | Searchable mirror of NASA patents, software, and spinoffs. |
 | [`nasa-space-biology`](https://github.com/RYASTRA/nasa-space-biology) | Faceted explorer for NASA OSDR space-biology studies. |
 | [`nasa-mcp`](https://github.com/RYASTRA/nasa-mcp) | NASA's public API catalog exposed through MCP. |
