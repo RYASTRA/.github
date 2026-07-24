@@ -9,28 +9,24 @@
 </p>
 
 <p align="center">
-  NASA data &nbsp;·&nbsp; satellite signals &nbsp;·&nbsp; developer tools
+  NASA data &nbsp;·&nbsp; developer tools
 </p>
 
 <p align="center">
   <a href="https://ryastra.github.io/nasa-observatory/">Explore NASA Observatory</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/RYASTRA/satnogs-dashboard">Run the SatNOGS workbench</a>
-  &nbsp;·&nbsp;
   <a href="https://github.com/RYASTRA/nasa-mcp">Connect to NASA APIs</a>
 </p>
 
-RYASTRA builds focused software around open space data—from live monitors and
-searchable research archives to satellite signal analysis and agent-ready APIs.
-The projects favor transparent pipelines, reproducible results, small deployment
-footprints, and clear limits.
+RYASTRA builds focused software around open NASA data—from live monitors and
+searchable research archives to agent-ready APIs. The projects favor transparent
+pipelines, reproducible results, small deployment footprints, and clear limits.
 
 ## Start here
 
 | Project | What it does |
 | --- | --- |
 | [**NASA Observatory**](https://ryastra.github.io/nasa-observatory/) | One live view across space weather, planetary defense, exoplanet discoveries, NASA technology, and space-biology updates. |
-| [**SatNOGS Review Workbench**](https://github.com/RYASTRA/satnogs-dashboard) | A self-hosted, read-only observation-review queue combining signal triage, Doppler identification, and decoder evidence. |
 | [**NASA MCP**](https://github.com/RYASTRA/nasa-mcp) | All 16 of NASA's public APIs as MCP tools through one FastMCP server and Docker setup. |
 
 ## NASA data
@@ -44,15 +40,6 @@ footprints, and clear limits.
 | [`nasa-tech-explorer`](https://github.com/RYASTRA/nasa-tech-explorer) | Searchable mirror of NASA patents, software, and spinoffs. |
 | [`nasa-space-biology`](https://github.com/RYASTRA/nasa-space-biology) | Faceted explorer for NASA OSDR space-biology studies. |
 | [`nasa-mcp`](https://github.com/RYASTRA/nasa-mcp) | NASA's public API catalog exposed through MCP. |
-
-## SatNOGS tooling
-
-| Project | Focus |
-| --- | --- |
-| [`satnogs-dashboard`](https://github.com/RYASTRA/satnogs-dashboard) | One observation-review workflow across the analysis tools. |
-| [`satnogs-signal`](https://github.com/RYASTRA/satnogs-signal) | ML-assisted signal-versus-noise triage for waterfall images. |
-| [`satnogs-id`](https://github.com/RYASTRA/satnogs-id) | Doppler-based identification of similar CubeSats. |
-| [`satnogs-decoder`](https://github.com/RYASTRA/satnogs-decoder) | Generation and validation of Kaitai Struct telemetry decoders. |
 
 ## How we build
 
@@ -76,5 +63,5 @@ All current RYASTRA projects are open source under the MIT License.
 ---
 
 <sub>RYASTRA is an independent open-source organization. It is not affiliated
-with or endorsed by NASA, JPL, SatNOGS, or the Libre Space Foundation. Each
-project documents its upstream data and software.</sub>
+with or endorsed by NASA or JPL. Each project documents its upstream data and
+software.</sub>
